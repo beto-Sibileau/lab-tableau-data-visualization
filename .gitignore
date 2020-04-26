@@ -24,6 +24,11 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# ignore files
+*.hyper
+*.twb
+
+
 # IPython
 profile_default/
 ipython_config.py
